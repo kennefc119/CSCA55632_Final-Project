@@ -8,3 +8,6 @@ Final Project for CSCA55632
 - For just previewing, you may open the project.html file to quickly view the project.
 
 Thanks.
+
+
+# python -m jupyter nbconvert --to html project.ipynb
